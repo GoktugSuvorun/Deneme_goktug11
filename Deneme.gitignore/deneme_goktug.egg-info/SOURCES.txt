@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Packages/__init__.py
+Packages/my_module.py
+deneme_goktug.egg-info/PKG-INFO
+deneme_goktug.egg-info/SOURCES.txt
+deneme_goktug.egg-info/dependency_links.txt
+deneme_goktug.egg-info/requires.txt
+deneme_goktug.egg-info/top_level.txt
